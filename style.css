@@ -1,10 +1,10 @@
 body {
     background-color: grey;
 }
-ul{
+ul li {
     display: inline;
     color: white;
-}
-li{
     background: black;
 }
+
+
