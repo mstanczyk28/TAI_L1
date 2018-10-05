@@ -2,3 +2,9 @@ body
 {
     background-color: #FFCCCC;
 }
+
+ul li{
+    display: inline;
+    color: white;
+    background: black;
+}
