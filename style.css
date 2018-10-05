@@ -1,3 +1,13 @@
 body{
     background: silver;
 }
+
+ul li {
+    display: inline-block;
+}
+
+a{
+    background: black;
+    color: #ffffff;
+    text-decoration: none;
+}
