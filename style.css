@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: #003868;
+    background-color: #808080;
+    margin: 6mm;
+}
+
+p {
+    text-align: justify;
+}
